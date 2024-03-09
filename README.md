@@ -34,7 +34,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+git clone https://github.com/ssemugabijames/Brainwave/
 cd brainwave
 Installation
 
